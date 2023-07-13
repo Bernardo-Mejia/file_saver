@@ -1,0 +1,7 @@
+{
+  "name": "save_pdf_url",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
